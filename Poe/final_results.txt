@@ -2,35 +2,20 @@
 
 
 ADream_1831 	-->	 Poe
-Assignation_1834 	-->	 Poe
+Berenice_1835 	-->	 Poe
 CardboardBox_1 	-->	 Doyle
-FactsOfTheCaseOfMValdemar_1845 	-->	 Poe
-HopFrog_1849 	-->	 Poe
-KingPest_1835 	-->	 Poe
-LastMohicans_1 	-->	 Cooper
-LastMohicans_2 	-->	 Cooper
-LastMohicans_3 	-->	 Cooper
-LastMohicans_4 	-->	 Cooper
-Ligeia_1838 	-->	 Poe
-Metzengerstein_1832 	-->	 Poe
+Destiny3 	-->	 Ferrier
+HarryandLucy3 	-->	 Edgeworth
+LastDayOfPompeii2 	-->	 Lytton
+MinorMorals3 	-->	 Bowring
 MobyDick_1 	-->	 Melville
-MobyDick_2 	-->	 Melville
-MobyDick_3 	-->	 Melville
-MobyDick_4 	-->	 Melville
-Morella_1835 	-->	 Poe
-Raven 	-->	 Poe
-SherlockHolmes_1 	-->	 Doyle
-SherlockHolmes_2 	-->	 Doyle
-SherlockHolmes_3 	-->	 Doyle
-SherlockHolmes_4 	-->	 Doyle
-SignOfTheFour_1 	-->	 Doyle
-SketchBookOfGeoffreyCrayon_1 	-->	 Irving
-SketchBookOfGeoffreyCrayon_2 	-->	 Irving
+PericlesAndAspesia1 	-->	 Landor
+Rookwood1 	-->	 Ainsworth
 SketchBookOfGeoffreyCrayon_3 	-->	 Irving
-SketchBookOfGeoffreyCrayon_4 	-->	 Irving
-TwiceToldTales_1 	-->	 Hawthorne
-TwiceToldTales_2 	-->	 Hawthorne
-TwiceToldTales_3 	-->	 Hawthorne
+Spaewife2 	-->	 Galt
+TheAbbot2 	-->	 Scott
+TheBravo1 	-->	 Cooper
+TheDoctor2 	-->	 Southey
 TwiceToldTales_4 	-->	 Hawthorne
 
 100 MFW , culled @ 0%,  0 of 0	(NaN%)
